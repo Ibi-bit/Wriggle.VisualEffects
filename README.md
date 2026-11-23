@@ -1,6 +1,6 @@
 # Wriggle.VisualEffects
 
-Optional reusable Raylib-cs effects: animated sprite sheets, generic effects, and explosions.
+Optional reusable Raylib-cs effect: explosion circles.
 
 ## Use
 
